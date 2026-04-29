@@ -1,1 +1,1 @@
-print("Probando git con Morty")
+print("Probando git con Rick")
